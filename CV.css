@@ -1,0 +1,47 @@
+body {
+    font-family: 'Noto Serif', serif;
+}
+
+.image {
+    display: block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fond{
+    background-color: #deb887;
+    color: #1f1f1f;
+}
+
+.presentation {
+    text-align: center;
+}
+
+.container {
+    border: 3px solid #910091;
+}
+
+.row {
+    border: 3px solid #80201a;
+}
+
+div[class*="col"] {
+    border: 3px solid #000f65;
+}
+
+.TOP{
+    margin-top: 1%;
+}
+
+acronym{
+    text-decoration: none;
+}
+
+.content{
+    text-align: left;
+}
+
+.titre{
+    text-align: left;
+}
