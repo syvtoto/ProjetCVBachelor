@@ -50,3 +50,17 @@ acronym{
 .contact{
     text-align: center;
 }
+
+a{
+    text-decoration: none;
+    color: #1f1f1f;
+}
+
+.datefromation{
+    text-align: right;
+    font-style: italic;
+}
+
+.MTOP{
+    margin-top: 1%;
+}
