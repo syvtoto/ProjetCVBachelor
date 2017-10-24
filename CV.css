@@ -64,3 +64,11 @@ a{
 .MTOP{
     margin-top: 1%;
 }
+
+.fondecran{
+    background-image: url("./images/fond2.jpg");
+}
+
+.fondecranv{
+    background-image: url("./images/fond.jpg");
+}
